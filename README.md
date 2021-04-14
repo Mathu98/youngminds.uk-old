@@ -30,7 +30,7 @@ Contact the Vasave Developers for YoungMind website development:
 
 [Amit](mailto:amit@vasave.uk)
 
-[Mrugesh](ashish@vasave.uk)
+[Mrugesh](mailto:ashish@vasave.uk)
 
 ## Copyright
 
