@@ -419,8 +419,9 @@ a.navbar-brand img {
 .full > img {
 	margin-right: 12%;
     width: 540px;
-	height: auto;
+	height: 800px;
 	border-radius: 10px;
+	
 }
 .blog_img_popular {
     margin-bottom: 30px;
